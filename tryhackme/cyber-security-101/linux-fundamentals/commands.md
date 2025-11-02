@@ -17,6 +17,10 @@
 `rm`, remove a file or folder
 `file`, determine the filetype
 `su`, switch user
+`wget`, download files via HTTP
+`scp`, transfer files over SSH
+`python3 -m http.server`, starting a web server module from Python
+
 
 ### `find`
 
