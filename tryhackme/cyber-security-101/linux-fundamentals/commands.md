@@ -10,6 +10,13 @@
 `pwd`, print working directory
 `find`, find specific files
 `grep`, search the contents of files
+`touch`, create a file
+`mkdir`, create a directory
+`cp`, copy a file or folder
+`mv`, move a file or folder
+`rm`, remove a file or folder
+`file`, determine the filetype
+`su`, switch user
 
 ### `find`
 
@@ -27,3 +34,8 @@
 `>`, redirector to direct output of a command elsewhere
 `>>`, redirector, but appends the output rather than replacing
 
+## Flags and switches
+
+A majority of commands allow for arguments to be provided, identified by a hyphen and a certain keyword, known as _flags_ or _switches_.
+
+E.g. use `-h` with `ls -lh` to format longer listings in a human readable way.
